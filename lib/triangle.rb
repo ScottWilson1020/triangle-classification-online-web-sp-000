@@ -3,7 +3,7 @@ class Triangle
   
   #intitialzie upon instance to take in an argument
   
-  def initialize( :length_1, :length_2, :length_3)
+  def initialize( :side_1, :side_2, :length_3)
     @length_1 = :length_1 
     @length_2 = :length_2 
     @length_3 = :length_3
