@@ -1,4 +1,5 @@
-class Triangle
+require 'pry'
+class Triangle	class Triangle
   # write code here	  # write code here
 end 	
   attr_accessor :side1, :side2, :side3
